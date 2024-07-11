@@ -4,6 +4,7 @@
 
 int main(void) {
   // Use a struct to force local variable memory ordering
+  
   struct {
     char buff[4];
     char pass;
