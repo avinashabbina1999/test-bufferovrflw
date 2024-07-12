@@ -9,7 +9,7 @@ int main(void) {
 
 
 
-  
+  //saradaga ala
   struct {
     char buff[4];
     char pass;
